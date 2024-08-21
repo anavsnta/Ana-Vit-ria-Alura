@@ -1,9 +1,9 @@
 body {
-    background-color: #4B0082; /* Cor roxa escura (índigo) */
-    color: #FFFFFF; /* Cor do texto branca para contraste */
-    font-family: Arial, sans-serif; /* Fonte padrão */
+    background-color: #4B0082; /* Dark purple color (indigo) */
+    color: #FFFFFF; /* White text color for contrast */
+    font-family: Arial, sans-serif; /* Default font */
 }
 
 h1, h2, h3, h4, h5, h6 {
-    color: #FFD700; /* Cor dourada para títulos */
+    color: #FFD700; /* Gold color for headings */
 }
